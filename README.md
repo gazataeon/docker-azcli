@@ -1,8 +1,8 @@
 # docker-azcli
 
-Docker Containers with Azure AzCLI
+Docker Images with Azure AzCLI
 
-Two simple containers for `az` commands.
+Two simple Images for `az` commands.
 
 Both should work fine, but the Ubuntu image is there for those of you who like big packages. ( ͡☉ ͜ʖ ͡☉)
 
